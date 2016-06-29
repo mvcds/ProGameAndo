@@ -1,1 +1,1 @@
-console.log('hello world');
+console.log('Voce vai jogar como par ou impar?');

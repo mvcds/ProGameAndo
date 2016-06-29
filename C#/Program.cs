@@ -6,7 +6,7 @@ namespace ParOuImpar
     {
         static void Main(string[] args)
         {
-            Console.Write("hello world");
+            Console.Write("Voce vai jogar como par ou impar?");
             Console.Read();
         }
     }
