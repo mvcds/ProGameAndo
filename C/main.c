@@ -2,7 +2,8 @@
 
 int main()
 {
-    printf("Voce vai jogar como par ou impar?\n");
+    char* msg = "Voce vai jogar como par ou impar?\n";
+    printf(msg);
     //this will only work on windows, apparently
     system("pause");
     return 0;
